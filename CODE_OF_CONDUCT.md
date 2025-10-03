@@ -1,0 +1,1 @@
+## [Development practices and Code of Conduct ](https://kiwibank.atlassian.net/wiki/spaces/CICD/pages/5421695164/Development+Code+of+Conduct)
