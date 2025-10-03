@@ -1,0 +1,20 @@
+         "domainOwner": "853871969080",
+            "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/gradle-plugins-store",
+            "createdTime": "2022-07-06T13:14:38.984000+12:00"
+        },
+        {
+            "name": "kb-repo",
+            "administratorAccount": "853871969080",
+            "domainName": "kb-domain",
+            "domainOwner": "853871969080",
+            "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/kb-repo",
+            "createdTime": "2022-07-06T13:14:41.293000+12:00"
+        },
+        {
+            "name": "kb-repo-dev",
+            "administratorAccount": "853871969080",
+            "domainName": "kb-domain",
+            "domainOwner": "853871969080",
+            "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/kb-repo-dev",
+            "createdTime": "2023-04-20T09:06:25.638000+12:00"
+        },
