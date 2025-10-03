@@ -1,4 +1,18 @@
-         "domainOwner": "853871969080",
+{
+    "repositories": [
+        {
+            "name": "google-android-store",
+            "administratorAccount": "853871969080",
+            "domainName": "kb-domain",
+            "domainOwner": "853871969080",
+            "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/google-android-store",
+            "createdTime": "2022-07-06T13:14:38.982000+12:00"
+        },
+        {
+            "name": "gradle-plugins-store",
+            "administratorAccount": "853871969080",
+            "domainName": "kb-domain",
+            "domainOwner": "853871969080",
             "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/gradle-plugins-store",
             "createdTime": "2022-07-06T13:14:38.984000+12:00"
         },
@@ -18,3 +32,45 @@
             "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/kb-repo-dev",
             "createdTime": "2023-04-20T09:06:25.638000+12:00"
         },
+        {
+            "name": "maven-central-store",
+            "administratorAccount": "853871969080",
+            "domainName": "kb-domain",
+            "domainOwner": "853871969080",
+            "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/maven-central-store",
+            "createdTime": "2022-07-06T13:14:38.955000+12:00"
+        },
+        {
+            "name": "npm-store",
+            "administratorAccount": "853871969080",
+            "domainName": "kb-domain",
+            "domainOwner": "853871969080",
+            "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/npm-store",
+            "createdTime": "2022-07-06T13:14:38.987000+12:00"
+        },
+        {
+            "name": "nuget-store",
+            "administratorAccount": "853871969080",
+            "domainName": "kb-domain",
+            "domainOwner": "853871969080",
+            "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/nuget-store",
+            "createdTime": "2022-07-06T13:14:38.958000+12:00"
+        },
+        {
+            "name": "public-proxy",
+            "administratorAccount": "853871969080",
+            "domainName": "kb-domain",
+            "domainOwner": "853871969080",
+            "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/public-proxy",
+            "createdTime": "2022-07-06T13:14:40.379000+12:00"
+        },
+        {
+            "name": "pypi-store",
+            "administratorAccount": "853871969080",
+            "domainName": "kb-domain",
+            "domainOwner": "853871969080",
+            "arn": "arn:aws:codeartifact:ap-southeast-2:853871969080:repository/kb-domain/pypi-store",
+            "createdTime": "2022-07-06T13:14:38.983000+12:00"
+        }
+    ]
+}
